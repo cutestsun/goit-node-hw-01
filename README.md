@@ -1,4 +1,4 @@
-# goit-node-hw-01
+# 📚 Node.js Homework 1
 
 1. https://monosnap.com/file/xikLifdtga0yYzfrKo4CYxwcV4849A (list)
 2. https://monosnap.com/file/IzWTrV6tc6WiGDT8HLIOPxnXYLH9c7 (get)
